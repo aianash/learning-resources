@@ -1,5 +1,10 @@
 # Deep Learning
 
+Brenden M. Lake, Ruslan Salakhutdinov, Joshua B. Tenenbaum,
+[Human-level concept learning
+through probabilistic
+program induction](http://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)
+
 Shakir Mohamed and Danilo J. Rezende,
 [Variational Information Maximisation for
 Intrinsically Motivated Reinforcement Learning](http://arxiv.org/pdf/1509.08731v1.pdf), 2015
@@ -47,6 +52,3 @@ Cambridge University Press, 2011.
 
 S. Sarkka, Bayesian filtering and smoothing, vol. 3. Cambridge University
 Press, 2013
-
-
-
