@@ -52,3 +52,48 @@ Cambridge University Press, 2011.
 
 S. Sarkka, Bayesian filtering and smoothing, vol. 3. Cambridge University
 Press, 2013
+
+Roger Frigola, Yutian Chen and Carl E. Rasmussen,
+[Variational Gaussian Process State-Space Models
+Roger]()
+
+J. A. Palmer, D. P.Wipf, K. Kreutz-Delgado, and B. D. Rao,
+[Variational EM Algorithms for Non-Gaussian Latent Variable Models]()
+
+Marc Peter Deisenroth,
+[Efficient Reinforcement Learning using Gaussian Processes]()
+
+Marc Peter Deisenrotha,b,∗, Ryan Turnerb, Marco F. Huberc, Uwe D. Hanebeckd, Carl Edward Rasmussenb,
+[Robust Filtering and Smoothing with Gaussian Processes]()
+
+[The Human Kernel]()
+
+Neil M.T. Houlsby, David M. Blei,
+[A Filtering Approach to Stochastic Variational Inference
+Neil]()
+
+Andrew Gordon Wilson, Zhiting Hu,
+[Deep Kernel Learning]()
+
+Matt Hoffman, DavidM. Blei, Chong Wang, John Paisley,
+[Stochastic Variational Inference]()
+
+Daniel Soudry1, Itay Hubara2, Ron Meir,
+[Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous or DiscreteWeights
+Daniel]()
+
+Cristian Sminchisescu, Allan Jepson,
+[Variational Mixture Smoothing for Non-Linear Dynamical Systems]()
+
+[Propagation Algorithms for Variational Bayesian Learning]()
+
+[Deep Generative Stochastic Networks Trainable by Backprop]()
+
+[Probability Product Kernels]()
+
+Steven L. Scott, Hal Varian,
+[Predicting the Present with Bayesian Structural Time Series]()
+
+[Expectation Propagation for Neural Networks with Sparsity-Promoting Priors]()
+
+[Expectation Propagation for Approximate Bayesian Inference]()
