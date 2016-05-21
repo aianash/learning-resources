@@ -97,3 +97,12 @@ Steven L. Scott, Hal Varian,
 [Expectation Propagation for Neural Networks with Sparsity-Promoting Priors]()
 
 [Expectation Propagation for Approximate Bayesian Inference]()
+
+[Kernel Interpolation for Scalable Structured Gaussian Processes (KISS-GP)]()
+
+Wilson, Andrew Gordon,
+Knowles, David A,
+Ghahramani, Zoubin,
+[Gaussian Process Regression Networks
+Andrew]()
+
