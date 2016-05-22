@@ -106,3 +106,11 @@ Ghahramani, Zoubin,
 [Gaussian Process Regression Networks
 Andrew]()
 
+Winn, J. and Bishop, C. M. (2006). [Variational message passing](http://www.cs.princeton.edu/courses/archive/spring06/cos598C/papers/WinnBishop2005.pdf). Journal of Machine Learning Research,
+6(1):661.
+
+Murray, I., Adams, R. P., and MacKay, D. J. (2010). [Elliptical Slice Sampling](). JMLR: W&CP, 9:541–548.
+
+Wilson, A. G. and Ghahramani, Z. (2011). [Generalised Wishart Processes](). In Uncertainty in Artificial
+Intelligence. AUAI Press.
+
