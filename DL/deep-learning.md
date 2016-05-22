@@ -114,3 +114,10 @@ Murray, I., Adams, R. P., and MacKay, D. J. (2010). [Elliptical Slice Sampling](
 Wilson, A. G. and Ghahramani, Z. (2011). [Generalised Wishart Processes](). In Uncertainty in Artificial
 Intelligence. AUAI Press.
 
+Sukhbaatar, Sainbayar,
+Szlam, Arthur,
+Weston, Jason,
+Fergus, Rob,
+[End-to-End Memory Networks]()
+
+C. G. Atkeson and S. Schaal. [Memory-based neural networks for robot learning](). Neurocom- puting, 9:243–269, 1995.
