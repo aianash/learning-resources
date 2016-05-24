@@ -121,3 +121,19 @@ Fergus, Rob,
 [End-to-End Memory Networks]()
 
 C. G. Atkeson and S. Schaal. [Memory-based neural networks for robot learning](). Neurocom- puting, 9:243–269, 1995.
+
+Andreas C. Damianou, Michalis Titsias, and Neil D. Lawrence. [Variational Gaussian process dynamical systems](). In Advances in Neural Information Processing Systems 24, pages 2510–2518. 2011.
+
+J. Daunizeau, K.J. Friston, and S.J. Kiebel. [Variational Bayesian identification and prediction of stochastic nonlinear dynamic causal models](). Physica D: Nonlinear Phenomena, 238(21):2089 – 2118, 2009.
+
+M. P. Deisenroth and S. Mohamed. [Expectation Propagation in Gaussian process dynamical systems](). In Advances in Neural Information Processing Systems (NIPS) 25, pages 2618–2626. 2012
+
+Z. Ghahramani and S. Roweis. [Learning nonlinear dynamical systems using an EM algorithm](). In Ad- vances in Neural Information Processing Systems (NIPS) 11. MIT Press, 1999
+
+Michalis Titsias. [Variational learning of inducing variables in sparse Gaussian processes](). In Proceedings of the 12th International Conference on Artificial Intelligence and Statistics (AISTATS), 2009.
+
+R. Turner, M. P. Deisenroth, and C. E. Rasmussen. [State-space inference and learning with Gaussian processes](). In Yee Whye Teh and Mike Titterington, editors, 13th International Conference on Artificial Intelligence and Statistics, volume 9 of W&CP, pages 868–875, Chia Laguna, Sardinia, Italy, 2010
+
+Harri Valpola and Juha Karhunen. [An unsupervised ensemble learning method for nonlinear dynamic state-space models](). Neural Computation, 14(11):2647–2692, 2002.
+
+J.M. Wang, D.J. Fleet, and A. Hertzmann. [Gaussian process dynamical models](). In Advances in Neural Information Processing Systems (NIPS) 18, pages 1441–1448. MIT Press, Cambridge, MA, 2006.
